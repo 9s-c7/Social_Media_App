@@ -54,7 +54,7 @@ export const Navbar = ({mode,setMode}) => {
     <AppBar position="sticky">
       <StyledToolBar>
         <Typography variant="h6" sx={{ display: { xs: "none", sm: "block" } }}>
-          LAMA DEV
+          Sonal Chandra
         </Typography>
         <Pets sx={{ display: { xs: "block", sm: "none" } }} />
         <Search >
